@@ -1,0 +1,10 @@
+﻿  main.cpp
+  spreadsheet.cpp
+\\Mac\Home\Downloads\SP-master\Spreadsheet\Spreadsheet\spreadsheet.cpp(73,22): warning C4267: return: преобразование из "size_t" в "INT"; возможна потеря данных
+\\Mac\Home\Downloads\SP-master\Spreadsheet\Spreadsheet\spreadsheet.cpp(83,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+\\Mac\Home\Downloads\SP-master\Spreadsheet\Spreadsheet\spreadsheet.cpp(147,111): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+\\Mac\Home\Downloads\SP-master\Spreadsheet\Spreadsheet\main.cpp(53): warning C4715: MyWindowProc: значение возвращается не при всех путях выполнения
+  
+Spreadsheet.rc(55): error RC2135: file not found: C:\Users\Miron\Desktop\spreadsheet.ico
+  
